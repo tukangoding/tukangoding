@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ghufran El-Azizi</title>
+    <link>https://ghufranelazizi.com/blog/</link>
+    <description>Recent content in Blogs on Ghufran El-Azizi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Feb 2021 03:25:17 +0700</lastBuildDate><atom:link href="https://ghufranelazizi.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://ghufranelazizi.com/blog/first-post/</link>
+      <pubDate>Tue, 16 Feb 2021 03:25:17 +0700</pubDate>
+      
+      <guid>https://ghufranelazizi.com/blog/first-post/</guid>
+      <description>Wow, This is awesome.
+Hi, there how a re you doin? semoga sehat selalu ya di masa pandemi ini. Aku sedang Work From Home. Tepatnya, ngoding from home. :D Karena di daerah Semarang sedang diterapkan PSBB. Ada senang, ada susah, namun dihadapi dengan penuh kesadaran bahwa ini ikhtiar kita dan pemerintah untuk mengurangi menanjaknya grafik menularnya covid-19. Semoga kita dalam keadaan sehat semua Aamiin.
+Senang sekali ketika berhasil mendeploy (memasang) website saya di Netlilfy dengan Static Generator Hugo tanpa ada halangan.</description>
+    </item>
+    
+  </channel>
+</rss>
