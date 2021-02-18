@@ -14,4 +14,4 @@ Sejak tahun 2014 saya belajar IT di kampus negeri di Semarang, saya memutuskan u
 
 Terakhir fokus saya kembali sesuai dengan disiplin ilmunya yaitu tentang IT konsentrasi pada web programming. TA yang saya ambil adalah Sistem Bimbingan Online kampus sendiri dengan teknologi Progressive Web Application.
 
-[1]: /img/ghufran.jpg
+[1]: /img/ghufran.webp
