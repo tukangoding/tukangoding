@@ -5,7 +5,7 @@ languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "masghuf"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "262342510"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
