@@ -2,7 +2,7 @@
 title: "First Post"
 date: 2021-02-16T03:25:17+07:00
 draft: false
-image: "img/blog/CARD.jpg"
+image: "img/blog/CARD.webp"
 ---
 
 Wow, This is awesome.

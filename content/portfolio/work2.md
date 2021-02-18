@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "I Love You 3000 (Sholawat Version)"
 draft = false
-image = "img/portfolio/iloveyou3000.png"
+image = "img/portfolio/iloveyou3000.webp"
 showonlyimage = false
 weight = 1
 +++

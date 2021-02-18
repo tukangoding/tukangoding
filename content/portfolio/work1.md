@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/work1"
+image = "img/portfolio/work1.webp"
 date = "2019-11-05T18:25:22+05:30"
 title = "Alf Production"
 weight = 0
