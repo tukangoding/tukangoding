@@ -1,7 +1,7 @@
 ---
 title: "Numpang Nama"
 date: 2021-02-26T18:01:30+07:00
-draft: false
+draft: true
 ---
 
 Tidak sampai hati jika kita berada di suatu organisasi hanya menumpang nama. Bukan tidak sampai hati lagi si, merasa sangat dholim kita pikir untuk membiarkan nama kita di suatu komounitas tapi tidak berperan apa-apa pada hakikatnya.
