@@ -2,9 +2,10 @@
 title: "Numpang Nama"
 date: 2021-02-26T18:01:30+07:00
 draft: false
+image: "img/blog/numpang-nama.webp"
 ---
 
-Tidak sampai hati jika kita berada di suatu organisasi hanya menumpang nama. Bahkan bukan tidak sampai hati lagi, akan merasa sangat dholim kita pikir ... untuk membiarkan nama kita di suatu komunitas tapi tidak berkontribusi apapun.
+Tidak sampai hati jika kita berada di suatu organisasi hanya menumpang nama. Bahkan bukan tidak sampai hati lagi, akan merasa sangat dholim kita pikir ... untuk membiarkan nama kita di suatu komunitas tapi tidak berkontribusi apapun. <!--more-->
 
 Adapun jika memang ada kepentingan tersendiri yang menjadi motif kita bergabung pada suatu komunitas itu sah-sah saja asalkan menjadikan kemaslahatan tidak hanya pada pribadi kita tetapi kepada orang di sekitar kita juga. Toh, tanpa disadari manfaatnya akan berimbas pada pribadi kita juga nanti.
 
