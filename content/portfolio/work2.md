@@ -18,3 +18,27 @@ El-Azizi di-challenge untuk membuat parodinya dengan menambahkan rap yang satu m
 Temen-temen bisa berkunjung ke kanal YouTube kami [di sini](https://youtu.be/nh8HGgrmQPI?t=6).
 
 Memang dewasa ini, pandemi menjadikan kami belum melanjutkan rekaman dan membuat video hingga nanti suasana memungkinkan dan dengan pertimbangan berbagai hal. Semoga pengunjung blog ini diberikan kesehatan dan selalu dilancarkan rejekinya oleh Tuhan Yang Maha Esa.
+
+Kalau kalian missed dengan lirik rapnya, berikut adalah lirik rap-nya : (Kalo lirik sholawatnya udah apal kan?)
+
+[Rap](https://instagram.com/ghufranelazizi)
+
+Everybody listen! yow
+
+Are you looking for someone, kawan ?
+
+Idola menjadi sosok teladan yang menawan
+
+Menjadi panutan menggeluti macam peranan
+
+dari Ayah, Panglima, hingga Pemerintahan
+
+tapi selama ini kita tak pernah mengangkat tangan
+
+Cuma untuk berdoa dan bersholawat beneran
+
+Moga dengan ini kita bersama sholawatan
+
+Buktikan can you prove it
+
+I Love You 3000
