@@ -44,11 +44,12 @@ googleAnalytics = "262342510"
   [[params.navlinks]]
   name = "Home"
   url = "portfolio/"
-  home = true
+  
 
   [[params.navlinks]]
   name = "About"
   url = "about/"
+  home = true
 
   [[params.navlinks]]
   name = "Get in touch"
