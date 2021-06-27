@@ -1,7 +1,7 @@
 ---
 title: "Insecurity"
 date: 2021-02-19T00:26:53+07:00
-draft: false
+draft: true
 ---
 
 Apa orang yang liat gue yang tinggi badan hanya 159 centi menertawakan meski dalam hati mereka ya? Gue udah nyadar lho kalo gue kerdil.
