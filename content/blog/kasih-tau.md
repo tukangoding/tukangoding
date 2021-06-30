@@ -2,6 +2,7 @@
 title: "Kasih Tau"
 date: 2021-06-29T16:19:01+07:00
 draft: false
+image: https://i.ytimg.com/vi/DaBGlvh_BHE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIbbRxLNfCiSxhcmRBFzsy8C7kBQ
 ---
 
 Marah dengan elegan. Kalimat "terserah, aku kan cuma kasih tau ... semua balik ke kamu" diucapkan begitu lembut tapi tajam. Sering mungkin ya terdengar dari orang terdekat kita. Atau malah ditujukan kepada kita sendiri. Ahaha. <!--more-->
