@@ -1,5 +1,5 @@
 +++
-image = "https://i.ytimg.com/an_webp/7j0rtFPaj_w/mqdefault_6s.webp?du=3000&sqp=CMysnYcG&rs=AOn4CLCOBOvHXvwILP1aK2Y3Oww1Gorg9g"
+image = "https://i.ytimg.com/vi/7j0rtFPaj_w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKx_73DA4iNXsiLXEEiavOdSPoWw"
 showonlyimage = false
 draft = false
 date = "2021-07-09T03:32:00+07:00"
