@@ -1,9 +1,11 @@
 ---
-title: "Cara Menghafal Lagu Bahasa Inggris"
+title: "5 Cara Menghafal Lagu Bahasa Inggris"
 date: 2021-07-25T21:56:37+07:00
 draft: false
 image: "img/blog/photo_profile.webp"
 ---
+
+Bonus buat yang membaca sampe akhir.    
 
 Lupa lirik waktu menyanyi di panggung, sekali dua kali masih wajar lah. Tapi,<!--more--> kalau sudah sampai dicap pelupa oleh audience kamu, Hmmm kayaknya kamu harus berusaha lebih keras lagi deh buat sabar menjalani step by step menghafal lirik lagu yang bener. Apalagi kalau lagunya berbahasa Inggris.
 
