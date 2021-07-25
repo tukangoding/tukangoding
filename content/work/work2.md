@@ -1,11 +1,9 @@
-+++
-date = "2016-11-05T19:41:01+05:30"
-title = "I Love You 3000 (Sholawat Version)"
-draft = false
-image = "https://i.ytimg.com/vi/nh8HGgrmQPI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCUYfdSk2uXFYe8lU1Iegv7Ad5Ew"
-showonlyimage = false
-weight = 1
-+++
+---
+date: "2016-11-05T19:41:01+05:30"
+title: "I Love You 3000 (Sholawat Version)"
+draft: false
+image: https://i.ytimg.com/vi/nh8HGgrmQPI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCUYfdSk2uXFYe8lU1Iegv7Ad5Ew
+---
 
 Rilis pada waktu trending-trendingnya putri dari Titi DJ. Stephanie dan movie Avengers. Siapa yang kagum dengan sosok Iron Man? :D Teknokrat sekaligus super hero.
 

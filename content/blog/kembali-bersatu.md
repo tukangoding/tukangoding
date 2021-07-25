@@ -18,3 +18,5 @@ Dan inilah lagunya :
 {{<youtube I57hoxC0HhA>}}
 
 Thanks for coming okee? See you on the next post.
+
+Kayaknya asyik kalau kita banyak bahas tentang nasyid. Sama-sama belajar dan berbagi info seputar nasyid kali ya. Semarang belum begitu terekspos. Kedepan akan banyak ekspos tentang karya dari Semarang Jawa Tengah Indonesia asli. Aamiin InsyaAllah. Dukung terus Nasyid Indonesia.
